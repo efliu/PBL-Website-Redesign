@@ -26,14 +26,14 @@ body {
 .index-background {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
-    url("/img/ud.jpg");
+    url("../images/co.jpg");
   background-position: center;
 }
 
 .committees-background {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)),
-    url("../img/IMG_5392-2.jpg");
+    url("../imgages/tc.jpg");
   background-position: center 43%;
 }
 
@@ -75,7 +75,7 @@ body {
 .apply-background {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
-    url("../img/IMG_5088-2-2.jpg");
+    url("../images/retreat.jpg");
   background-position: center 80%;
 }
 

@@ -33,7 +33,7 @@ body {
 .committees-background {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)),
-    url("../imgages/tc.jpg");
+    url("../images/tc.jpg");
   background-position: center 43%;
 }
 

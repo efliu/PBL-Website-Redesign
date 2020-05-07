@@ -368,3 +368,7 @@ body main {
 .timeline a {
   color: var(--dark);
 }
+
+.gallery {
+  height: 34rem;
+}

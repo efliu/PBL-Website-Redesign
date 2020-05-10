@@ -47,28 +47,28 @@ body {
 .in-background {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)),
-    url("../img/DSC0712.jpg");
+    url("../images/event1.jpg");
   background-position: center;
 }
 
 .ud-background {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)),
-    url("../img/IMG_9300.jpg");
+    url("../images/event1.jpg");
   background-position: center 80%;
 }
 
 .ex-background {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)),
-    url("../img/IMG_0479.jpg");
+    url("../images/event1.jpg");
   background-position: center 48%;
 }
 
 .careers-background {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
-    url("../img/3.jpg");
+    url("../images/event1.jpg");
   background-position: center 80%;
 }
 
